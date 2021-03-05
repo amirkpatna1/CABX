@@ -1,0 +1,6 @@
+Amir Khan,amirkpatna@gmail.com,123,21,8804247185,700102,8
+Aditya anmol,adi.anmol@gmail.com,1234,23,9123987639,700103,9
+Aman,aman@gmail.com,@1234,25,8934582938,700111,10
+Shivam,shivam@gmail.com,098,19,7835649834,700123,11
+Sandeep Kumar,sandeep@gmail.com,123,24,6736572736,700105,5
+Sandeep,sandeep@gmail.com,123,23,6752463726,700102,6
